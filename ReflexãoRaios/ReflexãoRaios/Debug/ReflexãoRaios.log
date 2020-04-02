@@ -1,0 +1,7 @@
+﻿  Origem.cpp
+c:\users\basso\onedrive\área de trabalho\faculdade\5º semestre\cg avançada\reflexãoraios\reflexãoraios\origem.cpp(8): warning C4305: '=': truncamento de 'double' para 'T'
+          with
+          [
+              T=float
+          ]
+  ReflexãoRaios.vcxproj -> C:\Users\basso\OneDrive\Área de Trabalho\Faculdade\5º semestre\CG Avançada\ReflexãoRaios\Debug\ReflexãoRaios.exe
